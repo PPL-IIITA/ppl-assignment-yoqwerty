@@ -19,7 +19,7 @@ OS Type : 64 bit<p>
 
 <h4><u>Class Diagram</u> :</h4>
 <hr>
-The class diagram .
+The class diagram of the project has been .
 
 <h4><u>Documentation</u> :</h4>
 <hr>
