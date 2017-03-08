@@ -23,3 +23,7 @@ The class diagram of the project has been made and is named as "classDiag.pdf" .
 <h4><u>Documentation</u> :</h4>
 <hr>
 Documentation of each question is done separately and can be found in the respective folder of the questions.
+
+<h4><u>Randomly generated data</u> :</h4>
+<hr>
+The data for boys,girls,couples and gifts is generated randomly and stored in current working directory of user as .xls sheets
