@@ -11,9 +11,9 @@ OS Type : 64 bit<p>
 <h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.2<p>
 
 <h4><u>Command for command prompt in Windows</u> :</h4>
-<hr>For question 1:java -jar "\quest\dist\quest.jar"
+<hr>For question 1:java -jar "<address of quest>\quest\dist\quest.jar"
 <p>
-For question 2:java -jar "\quest2\dist\quest2.jar"
+For question 2:java -jar "<address of quest2>\quest2\dist\quest2.jar"
 
 
 <h4><u>Class Diagram</u> :</h4>
