@@ -26,7 +26,7 @@ OS Type : 64 bit<p>
 
 <h4><u>Class Diagram</u> :</h4>
 <hr>
-The class diagram of the project has been made and is named as "classDiag.pdf" .
+The class diagram of que3 can be found as "q3.pdf" and rest questions' class diagrams are in their respective folders .
 
 <h4><u>Documentation</u> :</h4>
 <hr>
