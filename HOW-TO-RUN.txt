@@ -1,0 +1,9 @@
+Set the current working directory path to the path where the project is present.
+(NOTE: n is the question number, for eg quest3 ,here n=3)
+Change the path to questn.Reach dist folder of that question.
+
+Now on the command prompt, type:
+
+java -jar questn.jar (n is the question number.for eg quest3)
+
+So, the command is "cd quest3/dist java -jar quest3.jar"
