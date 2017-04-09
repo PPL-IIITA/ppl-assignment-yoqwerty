@@ -13,15 +13,15 @@ OS Type : 64 bit<p>
 <h4><u>Command for command prompt in Windows</u> :</h4>
 <hr>For question 1:java -jar "address of quest\quest\dist\quest.jar"
 <p>
-For question 2:java -jar "address of quest2\quest2\dist\quest2.jar"
-For question 3:java -jar "address of quest3\quest3\dist\quest3.jar"
-For question 4:java -jar "address of quest4\quest4\dist\quest4.jar
-For question 5:java -jar "address of quest5\quest5\dist\quest5.jar"
-For question 6:java -jar "address of quest6\quest6\dist\quest6.jar"
-For question 7:java -jar "address of quest7\quest7\dist\quest7.jar"
-For question 8:java -jar "address of quest8\quest8\dist\quest8.jar"
-For question 9:java -jar "address of quest9\quest9\dist\quest9.jar"
-For question 10:java -jar "address of quest10\quest10\dist\quest10.jar"
+<br>For question 2:java -jar "address of quest2\quest2\dist\quest2.jar"
+<br>For question 3:java -jar "address of quest3\quest3\dist\quest3.jar"
+<br>For question 4:java -jar "address of quest4\quest4\dist\quest4.jar
+<br>For question 5:java -jar "address of quest5\quest5\dist\quest5.jar"
+<br>For question 6:java -jar "address of quest6\quest6\dist\quest6.jar"
+<br>For question 7:java -jar "address of quest7\quest7\dist\quest7.jar"
+<br>For question 8:java -jar "address of quest8\quest8\dist\quest8.jar"
+<br>For question 9:java -jar "address of quest9\quest9\dist\quest9.jar"
+<br>For question 10:java -jar "address of quest10\quest10\dist\quest10.jar"
 
 
 <h4><u>Class Diagram</u> :</h4>
