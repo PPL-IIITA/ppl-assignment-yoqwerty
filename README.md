@@ -8,7 +8,7 @@ ppl-assignment-yoqwerty created by GitHub Classroom
 <hr>
 Operating System : Windows 10 <p>
 OS Type : 64 bit<p>
-<h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.2<p>
+<h6><u>Note</u> :</h6> All codes submitted are build and tested on Netbeans IDE 8.2.The projects have also been tested by building them using "apache-ant-1.10.1". The instructions to build the file have been given in "HOW TO BUILD.txt"<p>
 
 <h4><u>Command for command prompt in Windows</u> :</h4>
 <hr>For question 1:java -jar "address of quest\quest\dist\quest.jar"
@@ -26,11 +26,11 @@ OS Type : 64 bit<p>
 
 <h4><u>Class Diagram</u> :</h4>
 <hr>
-The class diagram of que3 can be found as "q3.pdf" and rest questions' class diagrams are in their respective folders .
+The class diagrams of questions 3-10 are in the folder class_diag_folder. For ques 1 and 2,it can be found as "classDiag.pdf"
 
 <h4><u>Documentation</u> :</h4>
 <hr>
-Documentation of each question is done separately and can be found in the respective folder of the questions.
+Documentation of each question is done separately and can be found as "docn",where n is the question number, for example doc3 is the documentation for que3.
 
 <h4><u>Randomly generated data</u> :</h4>
 <hr>
