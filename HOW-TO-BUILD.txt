@@ -1,0 +1,11 @@
+Software used: apache-ant-1.10.1
+OS used: Windows10
+
+The project can be built using ANT on Windows10.
+
+In the command prompt, change the current directory to:
+questn, NOTE: "n" is the question number,for eg: "quest3" is the project folder of question no.3. 
+
+The build.xml file is given in the folder of each question. Just type "ant" in the command prompt.The executable jar file will be created in dist in the project folder of that question.
+
+
